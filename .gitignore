@@ -1,3 +1,10 @@
+*.swp
+method2uml.pkl
+method2class.pkl
+uml_embedding.pkl
+uml_dataset.pt
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
